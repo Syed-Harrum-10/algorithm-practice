@@ -1,3 +1,5 @@
+// Sliding Window 
+
 // problem 1 
 
 // let arr = [3, 5, 2, 1, 4];
@@ -222,3 +224,81 @@
 // }
 
 // console.log(max);
+
+
+// Bubble Sort 
+
+// let arr = [8, 3, 6, 1, 9];
+
+
+// for(let i = 0; i < arr.length; i++) {
+//     for(let j = 0; j < arr.length - 1; j++) {
+//         if(arr[j] > arr[j + 1]) {
+//             let temp = arr[j];
+//             arr[j] = arr[j + 1];
+//             arr[j + 1] = temp;
+//         }
+//     }
+// }
+
+// let small = arr[0];
+// let secondSmall;
+
+// for(let i = 1; i < arr.length; i++) {
+//     if(arr[i] !== small) {
+//         secondSmall = arr[i]
+//         break;
+//     }
+// }
+
+// console.log(secondSmall);
+
+// Bubble Sort
+
+// let arr = [4, 2, 7, 1, 5];
+
+// for(let i = 0; i < arr.length; i++) {
+//     for(let j = 0; j < arr.length - 1; j++) {
+//         if(arr[j] < arr[j + 1]) {
+//             let temp = arr[j];
+//             arr[j] = arr[j + 1];
+//             arr[j + 1] = temp
+//         }
+//     }
+// }
+
+// console.log(arr);
+
+// two pointer 
+
+// let arr = [1, 3, 5, 7, 9];
+// let target = 12;
+
+// let left = 0;
+// let right = arr.length - 1;
+
+// while (left < right) {
+//     let sum = arr[left] + arr[right];
+//     if(sum === target) {
+//         console.log(arr[left], arr[right]);
+        
+//     }
+//     left ++
+//     right --
+    
+// }
+
+// let str = "madam";
+// let left = 0;
+// let right = str.length - 1;
+// let palindrome = true;
+
+// while (left < right) {
+//     if(str[left] !== str[right]) {
+//         palindrome = false;
+//         break;
+//     }
+//     left ++
+//     right --
+// }
+// console.log(palindrome);

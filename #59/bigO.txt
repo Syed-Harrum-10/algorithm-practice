@@ -1,0 +1,9 @@
+1: O(1) — doesn't matter how big input is, always same speed
+
+2: O(n) — grows with input
+
+3: O(n²) — nested loops, gets slow fast
+
+4: O(log n) — cuts problem in half each time
+
+5: O(n log n) — most sorting algorithms

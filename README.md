@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0213-house-robber-ii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 ## Graph Theory
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0213-house-robber-ii) |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +98,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -106,4 +111,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

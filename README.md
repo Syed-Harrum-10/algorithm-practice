@@ -11,6 +11,7 @@
 | [0213-house-robber-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0994-rotting-oranges) |
@@ -86,6 +87,7 @@
 | [0213-house-robber-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

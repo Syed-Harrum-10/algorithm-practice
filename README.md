@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0152-maximum-product-subarray) |
@@ -136,4 +137,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

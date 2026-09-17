@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 ## Manacher
@@ -144,6 +146,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0046-permutations) |
@@ -154,4 +157,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

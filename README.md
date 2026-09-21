@@ -87,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0198-house-robber) |
@@ -109,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 ## Manacher
 |  |
@@ -152,6 +154,7 @@
 | [0046-permutations](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |

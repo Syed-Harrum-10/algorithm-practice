@@ -19,6 +19,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0695-max-area-of-island) |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/1046-last-stone-weight) |
 ## Depth-First Search
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
@@ -193,4 +196,24 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

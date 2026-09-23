@@ -20,6 +20,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/1046-last-stone-weight) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |

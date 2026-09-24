@@ -19,6 +19,7 @@
 | [0322-coin-change](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0994-rotting-oranges) |
@@ -64,6 +65,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
+| [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 ## Graph Theory
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/1046-last-stone-weight) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -221,4 +225,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
+| [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 ## Graph Theory
 |  |
@@ -180,6 +181,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->

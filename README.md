@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0090-subsets-ii) |
@@ -217,6 +218,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

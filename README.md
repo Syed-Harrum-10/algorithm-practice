@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0078-subsets) |
@@ -98,6 +99,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0131-palindrome-partitioning) |
@@ -240,6 +242,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 ## Counting

@@ -28,6 +28,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0695-max-area-of-island) |
+| [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/1046-last-stone-weight) |
@@ -74,6 +75,7 @@
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 ## Graph Theory
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -250,6 +253,7 @@
 | [0134-gas-station](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 ## Counting
 |  |
 | ------- |

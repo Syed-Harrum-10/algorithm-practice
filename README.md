@@ -75,6 +75,7 @@
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 ## Graph Theory
 |  |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0005-longest-palindromic-substring) |
+| [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
+| [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 ## Manacher
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0134-gas-station](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 ## Counting
 |  |

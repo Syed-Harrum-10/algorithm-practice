@@ -117,6 +117,7 @@
 | [0322-coin-change](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0091-decode-ways](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
+| [0678-valid-parenthesis-string](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 ## Manacher
 |  |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -256,6 +259,7 @@
 | [0134-gas-station](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
 ## Counting
@@ -270,4 +274,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

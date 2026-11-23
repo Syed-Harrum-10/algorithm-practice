@@ -26,6 +26,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0695-max-area-of-island) |
 | [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
@@ -74,6 +75,7 @@
 | [0133-clone-graph](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0139-word-break) |
 | [0355-design-twitter](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0355-design-twitter) |
+| [0560-subarray-sum-equals-k](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0846-hand-of-straights) |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0678-valid-parenthesis-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Syed-Harrum-10/algorithm-practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
